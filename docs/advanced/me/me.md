@@ -8,7 +8,7 @@
 
 ## 找到我
 
-- Github: [codercup](https://github.com/codercup)
+- Github: [codercup](https://github.com/codercup2)
 - Gitee: [codercup](https://gitee.com/codercup)
 - 掘金：[菲鸽](https://juejin.cn/user/3263006241460792/posts)
 - 微信：`codercup` = `菲鸽`，大家都叫我 `鸽鸽`
