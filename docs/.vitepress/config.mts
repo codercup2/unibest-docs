@@ -16,6 +16,13 @@ export default defineConfig({
         content: 'unibest, uniapp, uni-app, vue, vue3, vite,template, typescript, ts',
       },
     ],
+    [
+      'meta',
+      {
+        name: 'author',
+        content: '菲鸽, 菲哥, 鸽鸽, feige100, codercup, 1020103647@qq.com',
+      },
+    ],
     ['link', { rel: 'icon', href: '/unibest-docs/favicon.ico' }], // 这里要加上 base 前缀，否则资源访问不到
     [
       'meta',
@@ -24,8 +31,13 @@ export default defineConfig({
         content: '最好用的 uniapp 开发模板',
       },
     ],
+    // 添加 ICP 备案信息
+    ['meta', { name: 'icp', content: '粤ICP备2024160998号' }],
+    ['link', { rel: 'license', href: 'http://www.miitbeian.gov.cn/' }],
+
+    // 其他杂七杂八的 meta 标签
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:site', content: 'codercup' }],
+    ['meta', { name: 'twitter:site', content: 'feige100' }],
     [
       'meta',
       {
@@ -68,7 +80,9 @@ export default defineConfig({
         content: '最好用的 uniapp 开发模板',
       },
     ],
+    // 下面是百度统计代码
     ['script', { async: '', src: 'https://hm.baidu.com/hm.js?081c2ec121383d9e7d5a35c5833ab6ff' }],
+    // 下面是不蒜子统计代码
     ['script', { async: '', src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
   ],
   markdown: {
