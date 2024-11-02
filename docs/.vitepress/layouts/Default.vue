@@ -4,8 +4,9 @@
     <VPLayout>
       <template #layout-bottom>
         <footer class="footer">
-          <p>© 2024 菲哥科技公司</p>
-          <p><a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备2024160998号</a></p>
+          <p>© 2024 菲鸽科技</p>
+          <p><a href="https://beian.miit.gov.cn" target="_blank">粤ICP备2024160998号</a></p>
+          <BuildInfo />
         </footer>
       </template>
     </VPLayout>

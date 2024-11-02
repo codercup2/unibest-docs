@@ -1,4 +1,8 @@
+import dayjs from 'dayjs'
 import { defineConfig } from 'vitepress'
+import packageJson from '../../package.json'
+
+const buildTime = dayjs().format('yyyy-MM-dd HH:mm:ss')
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -80,6 +84,9 @@ export default defineConfig({
         content: '最好用的 uniapp 开发模板',
       },
     ],
+    // 增加构建信息
+    ['meta', { name: 'build-time', content: buildTime }],
+    ['meta', { name: 'version', content: packageJson.version }],
     // 下面是百度统计代码
     ['script', { async: '', src: 'https://hm.baidu.com/hm.js?081c2ec121383d9e7d5a35c5833ab6ff' }],
     // 下面是不蒜子统计代码
@@ -95,6 +102,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.svg',
     siteTitle: 'unibest',
+    editLink: {
+      pattern: 'https://beian.miit.gov.cn',
+      text: '粤ICP备2024160998号',
+    },
     nav: [
       {
         text: '快速开始',
