@@ -102,10 +102,6 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.svg',
     siteTitle: 'unibest',
-    editLink: {
-      pattern: 'https://beian.miit.gov.cn',
-      text: '粤ICP备2024160998号',
-    },
     nav: [
       {
         text: '快速开始',
