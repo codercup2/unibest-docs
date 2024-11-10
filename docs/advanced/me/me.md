@@ -8,10 +8,10 @@
 
 ## 找到我
 
-- Github: [codercup](https://github.com/codercup2)
-- Gitee: [codercup](https://gitee.com/codercup)
+- Github: [feige996](https://github.com/feige996)
+- Gitee: [feige996](https://gitee.com/feige996)
 - 掘金：[菲鸽](https://juejin.cn/user/3263006241460792/posts)
-- 微信：`codercup` = `菲鸽`，大家都叫我 `鸽鸽`
+- 微信：`feige996` = `菲鸽`，大家都叫我 `鸽鸽`
 - QQ：`1020103647`
 - 邮箱：`1020103647@qq.com`
 

@@ -70,18 +70,18 @@ pnpm create unibest my-project -t hbx-demo # hbx的demo模板，包含所有的d
 
 ### 普通模板：
 
-- https://github.com/codercup2/unibest
-- https://gitee.com/codercup/unibest
+- https://github.com/feige996/unibest
+- https://gitee.com/feige996/unibest
 
 > `demo` 模板是在 `hello-unibest` 项目中，仓库地址如下：
 
-- https://github.com/codercup2/hello-unibest
-- https://gitee.com/codercup/hello-unibest
+- https://github.com/feige996/hello-unibest
+- https://gitee.com/feige996/hello-unibest
 
 ### hbx 模板
 
-- https://github.com/codercup2/unibest-hbx
-- https://gitee.com/codercup/unibest-hbx
+- https://github.com/feige996/unibest-hbx
+- https://gitee.com/feige996/unibest-hbx
 
 > `hbx` 目前由 `青谷` 大佬维护，微信号：`qingguxixi`，[青谷 github 地址](https://github.com/Xiphin) 。
 

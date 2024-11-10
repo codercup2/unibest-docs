@@ -25,7 +25,7 @@ export default defineConfig({
       'meta',
       {
         name: 'author',
-        content: '菲鸽, 菲哥, 鸽鸽, feige100, codercup, 1020103647@qq.com',
+        content: '菲鸽, 菲哥, 鸽鸽, feige996, feige996, 1020103647@qq.com',
       },
     ],
     ['link', { rel: 'icon', href: './favicon.ico' }], // 这里要加上 base 前缀，否则资源访问不到
@@ -41,13 +41,13 @@ export default defineConfig({
     ['link', { rel: 'license', href: 'https://beian.miit.gov.cn/' }],
     // 其他杂七杂八的 meta 标签
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:site', content: 'feige100' }],
+    ['meta', { name: 'twitter:site', content: 'feige996' }],
     [
       'meta',
       {
         name: 'twitter:image:src',
         content:
-          'https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/codercup/unibest',
+          'https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/feige996/unibest',
       },
     ],
     [
@@ -55,7 +55,7 @@ export default defineConfig({
       {
         property: 'og:image',
         content:
-          'https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/codercup/unibest',
+          'https://opengraph.githubassets.com/1cac1150838995e1f7d1643c00eee51a5d884f2054f995c9d3225b07b0eddb39/feige996/unibest',
       },
     ],
     [
@@ -76,7 +76,7 @@ export default defineConfig({
         content: '最好用的 uniapp 开发模板',
       },
     ],
-    ['meta', { property: 'og:url', content: 'https://github.com/codercup2/unibest' }],
+    ['meta', { property: 'og:url', content: 'https://github.com/feige996/unibest' }],
     [
       'meta',
       {
@@ -172,12 +172,12 @@ export default defineConfig({
       copyright: 'Copyright (c) 2024 菲鸽',
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/codercup2/unibest' },
+      { icon: 'github', link: 'https://github.com/feige996/unibest' },
       {
         icon: {
           svg: `<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><path fill="currentColor" d="M11.984 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12a12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.016 0m6.09 5.333c.328 0 .593.266.592.593v1.482a.594.594 0 0 1-.593.592H9.777c-.982 0-1.778.796-1.778 1.778v5.63c0 .327.266.592.593.592h5.63c.982 0 1.778-.796 1.778-1.778v-.296a.593.593 0 0 0-.592-.593h-4.15a.592.592 0 0 1-.592-.592v-1.482a.593.593 0 0 1 .593-.592h6.815c.327 0 .593.265.593.592v3.408a4 4 0 0 1-4 4H5.926a.593.593 0 0 1-.593-.593V9.778a4.444 4.444 0 0 1 4.445-4.444h8.296Z"/></svg>`,
         },
-        link: 'https://gitee.com/codercup/unibest',
+        link: 'https://gitee.com/feige996/unibest',
         ariaLabel: 'Gitee',
       },
       // #1f80ff 是掘金的 logo 的颜色

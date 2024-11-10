@@ -15,10 +15,10 @@ hero:
       link: /base/1-introduction
     - theme: alt
       text: 项目地址
-      link: https://github.com/codercup2/unibest/
+      link: https://github.com/feige996/unibest/
     - theme: alt
       text: 查看演示
-      link: https://codercup.github.io/hello-unibest/#/
+      link: https://feige996.github.io/hello-unibest/#/
     - theme: brand
       text: 🥤 打赏
       link: /advanced/rewards/rewards
@@ -66,7 +66,7 @@ features:
     title: 精心配置的代码规范
     details: TypeScript + Prettier + ESLint + Stylelint + husky + lint-staged + commitlint 配置规范
     linkText: 去 github 仓库看看吧
-    link: https://github.com/codercup2/unibest
+    link: https://github.com/feige996/unibest
 ---
 
 <div class='busuanzi_container'>

@@ -2,11 +2,11 @@
 
 <div class="md-center" style="margin-top: 20px;">
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/codercup/unibest?style=flat&logo=github)](https://github.com/codercup/unibest)
-[![star](https://gitee.com/codercup/unibest/badge/star.svg?theme=dark)](https://gitee.com/codercup/unibest)
+[![GitHub Repo stars](https://img.shields.io/github/stars/feige996/unibest?style=flat&logo=github)](https://github.com/feige996/unibest)
+[![star](https://gitee.com/feige996/unibest/badge/star.svg?theme=dark)](https://gitee.com/feige996/unibest)
 ![node version](https://img.shields.io/badge/node-%3E%3D18-green)
 ![pnpm version](https://img.shields.io/badge/pnpm-%3E%3D7.30-green)
-![GitHub License](https://img.shields.io/github/license/codercup/unibest)
+![GitHub License](https://img.shields.io/github/license/feige996/unibest)
 
 </div>
 
@@ -18,17 +18,17 @@
 
 ## ⭐ Star History
 
-Github Star History 实时地址：[https://star-history.com/#codercup/unibest&Date](https://star-history.com/#codercup/unibest&Date) 。
+Github Star History 实时地址：[https://star-history.com/#feige996/unibest&Date](https://star-history.com/#feige996/unibest&Date) 。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=codercup/unibest&type=Date)](https://star-history.com/#codercup/unibest&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=feige996/unibest&type=Date)](https://star-history.com/#feige996/unibest&Date)
 
 与同类型模板对比，如下图，红色的为 `unibest`，后来居上，遥遥领先。
 
 :::details
 
-[![Star History Chart](https://api.star-history.com/svg?repos=codercup/unibest,Ares-Chang/uni-vitesse,uni-helper/vitesse-uni-app&type=Date)](https://star-history.com/#codercup/unibest&Ares-Chang/uni-vitesse&uni-helper/vitesse-uni-app&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=feige996/unibest,Ares-Chang/uni-vitesse,uni-helper/vitesse-uni-app&type=Date)](https://star-history.com/#feige996/unibest&Ares-Chang/uni-vitesse&uni-helper/vitesse-uni-app&Date)
 
-同类模板对比实时地址：[https://star-history.com/#codercup/unibest&Ares-Chang/uni-vitesse&uni-helper/vitesse-uni-app&Date](https://star-history.com/#codercup/unibest&Ares-Chang/uni-vitesse&uni-helper/vitesse-uni-app&Date)
+同类模板对比实时地址：[https://star-history.com/#feige996/unibest&Ares-Chang/uni-vitesse&uni-helper/vitesse-uni-app&Date](https://star-history.com/#feige996/unibest&Ares-Chang/uni-vitesse&uni-helper/vitesse-uni-app&Date)
 :::
 
 ## 🗂 生成过程

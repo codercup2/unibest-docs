@@ -19,7 +19,7 @@ docs/.vitepress/theme
 
 ## gitee
 
-git remote add gitee https://gitee.com/codercup/unibest-docs.git
+git remote add gitee https://gitee.com/feige996/unibest-docs.git
 git push -u gitee "main"
 
 ## 提示
