@@ -80,3 +80,6 @@ features:
   本文总阅读量<span id="busuanzi_value_page_pv"></span>次
   </span>
 </div>
+<div class="icp_container">
+<a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备2024160998号</a>
+</div>
