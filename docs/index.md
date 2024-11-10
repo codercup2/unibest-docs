@@ -81,5 +81,5 @@ features:
   </span>
 </div>
 <div class="icp_container">
-<a href="http://www.miitbeian.gov.cn/" target="_blank">粤ICP备2024160998号</a>
+<a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2024160998号</a>
 </div>

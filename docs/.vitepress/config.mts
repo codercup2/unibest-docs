@@ -37,8 +37,7 @@ export default defineConfig({
     ],
     // 添加 ICP 备案信息
     ['meta', { name: 'icp', content: '粤ICP备2024160998号' }],
-    ['link', { rel: 'license', href: 'http://www.miitbeian.gov.cn/' }],
-
+    ['link', { rel: 'license', href: 'https://beian.miit.gov.cn/' }],
     // 其他杂七杂八的 meta 标签
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:site', content: 'feige100' }],
