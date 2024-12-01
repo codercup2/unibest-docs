@@ -6,8 +6,9 @@
 
 再次提醒，千万记得 `先看一遍文档`，两个小时就看完了吧。
 
-![alt text](image.png)
+![alt text](https://oss.laf.run/ukw0y1-site/unibest-discussion-group/wechat.jpeg)
 
 > 如果上面的微信群满了，请使用下面的 QQ 群，QQ 群不会过期，长期有效。
 
-![alt text](image-1.png)
+① 群已满，下面是 ② 群。
+![alt text](https://oss.laf.run/ukw0y1-site/unibest-discussion-group/qq.jpeg)
